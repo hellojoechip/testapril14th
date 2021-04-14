@@ -1,3 +1,8 @@
 # This is my website
 
-![](j.jpg)
+Lorem ipsum text
+
+* item 1
+* item 2
+
+![](j.png)
